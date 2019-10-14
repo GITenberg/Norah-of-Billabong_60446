@@ -1,0 +1,32 @@
+_repo: Norah-of-Billabong_60446
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Macfarlane, J.
+    gutenberg_agent_id: '6648'
+    url: http://www.gutenberg.org/2009/agents/6648
+creator:
+  author:
+    agent_name: Bruce, Mary Grant
+    birthdate: 1878
+    deathdate: 1958
+    gutenberg_agent_id: '1371'
+    url: http://www.gutenberg.org/2009/agents/1371
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Grant_Bruce
+description: ''
+gutenberg_issued: '2019-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60446'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Families -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Country life -- Juvenile fiction'
+- !lcsh 'Australia -- Juvenile fiction'
+- GITenberg
+title: Norah of Billabong
+url: http://www.gutenberg.org/ebooks/60446
